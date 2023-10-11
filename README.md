@@ -27,17 +27,13 @@ Text summarization is the process of reducing a long piece of text to a shorter,
 
 To set up the project, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Install the required dependencies.
 
-2. Install the required dependencies.
-
-pip install -r requirements.txt
-
-3. Start the Flask web application.
+2. Start the Flask web application.
 
 python app.py
 
-4. Access the application through your web browser at `http://localhost:5000`.
+3. Access the application through your web browser at `http://localhost:5000`.
 
 ## Usage
 
